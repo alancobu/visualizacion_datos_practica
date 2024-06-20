@@ -1,6 +1,6 @@
 # Análisis de la Brecha de Género en Wikipedia
 
-Este proyecto analiza la brecha de género en la edición de artículos en Wikipedia, basándose en un dataset generado a partir de la API de Wikipedia. El análisis se enfoca en identificar diferencias en participación y prácticas de edición entre hombres y mujeres.
+Este proyecto analiza la brecha de género en la edición de artículos en Wikipedia, basándose en un dataset generado a partir de la API de Wikipedia por parte del equipo investigador. El análisis se enfoca en identificar diferencias en participación y prácticas de edición entre hombres y mujeres.
 
 ## Contenido del Repositorio
 
@@ -14,7 +14,7 @@ Este proyecto analiza la brecha de género en la edición de artículos en Wikip
 2. **`data.csv`**
 
    - Este archivo CSV contiene el dataset inicial obtenido a partir de la API de Wikipedia.
-   - Incluye información sobre los usuarios, como su nombre de usuario, número de ediciones, grupos a los que pertenecen, género y fecha de registro.
+   - Incluye información sobre los usuarios, como el número de ediciones, estratificaciones según ediciones o página personal, namespaces en los cuales es activo, etc.
 
 3. **`exploring_gender_gap_wikipedia_spanish.pdf`**
 
