@@ -24,6 +24,7 @@ Este proyecto analiza la brecha de género en la edición de artículos en Wikip
 4. **`https://public.flourish.studio/visualisation/18446860/`**
    - Página web con las visualizaciones interactivas generadas a partir del análisis.
    - Incluye gráficos y diagramas que muestran las diferencias de participación y edición entre hombres y mujeres en Wikipedia.
+   - En caso de que la visualizacioón se realice en un dispositivo móvil, se recomienda hacerlo en forma horizontal.
 
 ### Cómo Utilizar este Repositorio
 
